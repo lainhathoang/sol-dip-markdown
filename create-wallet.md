@@ -13,15 +13,16 @@ Trong hướng dẫn này, chúng ta sẽ sử dụng **Phantom Wallet**.
 
 1. Truy cập trang chính thức: [https://phantom.app/download](https://phantom.app/download)
 
-   > 🖼️ _Ảnh minh hoạ 1: Trang tải Phantom_
-
 2. Chọn phiên bản phù hợp:
-
+   
    - Extension cho Chrome/Brave/Edge/Firefox.
    - Ứng dụng di động trên iOS/Android.
 
-3. Bấm **Add to Browser** (hoặc tải về trên App Store/Google Play).
-   > 🖼️ _Ảnh minh hoạ 2: Thêm extension vào Chrome_
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 at 17 01 52" src="https://github.com/user-attachments/assets/b48a2b06-3f19-4684-975f-aec89b849650" />
+
+4. Bấm **Add to Browser** (hoặc tải về trên App Store/Google Play).
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 at 17 04 32" src="https://github.com/user-attachments/assets/92385611-55d9-4132-9ded-50b14f6e4d90" />
 
 ---
 
@@ -30,27 +31,31 @@ Trong hướng dẫn này, chúng ta sẽ sử dụng **Phantom Wallet**.
 1. Sau khi cài đặt, mở ứng dụng Phantom.
 2. Chọn **Create a new wallet**.
 
-   > 🖼️ _Ảnh minh hoạ 3: Màn hình chọn "Create New Wallet"_
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 at 16 58 10" src="https://github.com/user-attachments/assets/450ce340-9236-4ff3-8fb8-0b8b3ec76769" />
 
-3. Phantom sẽ hiển thị **Secret Recovery Phrase (Seed phrase)** gồm 12 từ:
+3. Tạo mật khẩu (password) để mở khóa ví nhanh trong trình duyệt.
+4. Phantom sẽ hiển thị **Secret Recovery Phrase (Seed phrase)** gồm 12 từ:
 
    - Ghi lại và lưu trữ ở nơi an toàn.
    - Không chia sẻ với bất kỳ ai.
-     > 🖼️ _Ảnh minh hoạ 4: Seed phrase (ẩn)_
 
-4. Tạo mật khẩu (password) để mở khóa ví nhanh trong trình duyệt.
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 at 17 09 01" src="https://github.com/user-attachments/assets/e96dc77b-dd3d-411b-a1bd-e9a86d7680ee" />
 
 5. Hoàn tất → Ví mới được tạo với địa chỉ công khai (public key) dạng:  
-   3HsK...8xYZ
+`EMifYgKCkMFYWJk2PXks48otAvE9JKoFdN5TGtY5SvPh`
 
 ---
 
 ## 4. Khôi phục ví đã có
 
-1. Trên màn hình khởi tạo ví, chọn **Import Wallet**.
-2. Nhập 12 từ seed phrase đã lưu trước đó.
-3. Thiết lập lại mật khẩu.
-   > 🖼️ _Ảnh minh hoạ 5: Màn hình "Import Wallet"_
+1. Trên màn hình khởi tạo ví, chọn **I already have a wallet**.
+2. Chọn **Import private key** 
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 at 17 19 31" src="https://github.com/user-attachments/assets/821e9971-0d47-44f4-9010-18209a717a57" />
+
+4. Nhập 12 từ seed phrase đã lưu trước đó.
+
+<img width="1920" height="1080" alt="Screenshot 2025-09-02 at 17 20 09" src="https://github.com/user-attachments/assets/dc06be96-ffc3-4105-8d3e-ff58ce08b8fb" />
 
 ---
 
@@ -58,7 +63,8 @@ Trong hướng dẫn này, chúng ta sẽ sử dụng **Phantom Wallet**.
 
 1. Tại giao diện chính, bấm **Deposit** hoặc **Receive**.
 2. Copy địa chỉ ví (public key) để gửi SOL từ sàn giao dịch hoặc từ ví khác.
-   > 🖼️ _Ảnh minh hoạ 6: Màn hình copy địa chỉ ví_
+
+<img width="361" height="599" alt="image" src="https://github.com/user-attachments/assets/79f9f9ee-7f92-4237-a0d2-92af20a573c7" />
 
 ---
 
@@ -74,8 +80,6 @@ Trong hướng dẫn này, chúng ta sẽ sử dụng **Phantom Wallet**.
 ## 7. Lưu ý bảo mật
 
 - Không bao giờ chia sẻ **seed phrase**.
-- Ưu tiên bật **biometric / FaceID / TouchID** nếu dùng điện thoại.
-- Có thể sử dụng ví cứng (Ledger) để tăng mức độ an toàn.
 
 ---
 
