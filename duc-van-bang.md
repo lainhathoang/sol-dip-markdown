@@ -3,21 +3,22 @@
 ## 1. Tạo văn bằng mới (Degree)
 
 ### Bước 1: Truy cập hệ thống
-- QL ĐHXDHN đăng nhập vào hệ thống bằng ví Solana.
-- Sau khi đăng nhập thành công, chọn menu **Quản lý văn bằng**.  
-  > 🖼️ *Ảnh minh hoạ: Giao diện trang quản lý văn bằng*
+- QL ĐHXDHN đăng nhập vào hệ thống bằng ví Solana của QL ĐHXDHN.
+- Sau khi đăng nhập thành công, chọn **Dashboard** ở nút kết nối ví.
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/d41737d9-a1fc-4239-8336-836eb55d203c" />
+
+- Chọn **Quản lý văn bằng** ở navbar.
+<img width="1710" height="1112" alt="image" src="https://github.com/user-attachments/assets/0dd90335-e2d3-4782-947c-864a474bf2ea" />
 
 ---
 
-### Bước 2: Tạo văn bằng (off-chain)
-1. Chọn **Thêm văn bằng mới**.  
-2. Nhập đầy đủ thông tin:
-   - MSSV, họ tên, ngày sinh.  
-   - Ngành, loại văn bằng, xếp loại.  
-   - Số hiệu văn bằng, số vào sổ, ngày cấp.  
-   - Ảnh văn bằng (file .jpg/.png).  
-3. Bấm **Lưu** → Hệ thống lưu dữ liệu vào CSDL.  
-   > 🖼️ *Ảnh minh hoạ: Form nhập thông tin văn bằng*
+### Bước 2: Tạo văn bằng
+- Chọn **Thêm văn bằng**.
+- Nhập Mã sinh viên vào và nhấn biểu tượng tìm kiếm, các thông tin khác sẽ tự động được điền đầy đủ.
+- Điền & Chọn đầy đủ các thông tin chưa có cho khớp với văn bằng.
+- Tải lên ảnh văn bằng.
+- Bấm **Tạo văn bằng** → Hệ thống lưu dữ liệu vào CSDL.  
+<img width="3420" height="5000" alt="image" src="https://github.com/user-attachments/assets/3cd71ae5-7c13-4279-ad3b-57e33de838b4" />
 
 ---
 
